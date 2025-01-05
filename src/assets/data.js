@@ -39,12 +39,4 @@ export const data = [
     option4: "Pen Drive",
     ans: 2,
   },
-  {
-    question: "How about Sadek penis?",
-    option1: "big",
-    option2: "small",
-    option3: "normal",
-    option4: "nothing is there",
-    ans: 4,
-  },
 ];
